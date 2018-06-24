@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">جافا</string>
+    <string name="Quantity_of_Cups">عدد أكواب القهوة</string>
+    <string name="toppings">أضافات</string>
+    <string name="Whipped_cream">كريمة مخفوقة</string>
+    <string name="Chocolate">شيكولاتة</string>
+    <string name="Order_Summary">ملخص الطلب</string>
+    <string name="order">أطلب</string>
+    <string name="Send_Email">أرسل بريد ألكتروني</string>
+    <string name="Thanks">أشكرك</string>
+    <string name="Name">الأسم</string>
+</resources>
